@@ -1,4 +1,4 @@
-# 📊 Análisis de Evasión de Clientes en Telecomunicaciones (Churn Analysis)
+# 📊 Análisis de Evasión de Clientes en TelecomX_LATAM
 
 Este proyecto tiene como objetivo explorar y analizar los factores que influyen en la cancelación del servicio por parte de los clientes (churn) en una empresa de telecomunicaciones, utilizando Python y librerías como Pandas, Seaborn y Matplotlib.
 
